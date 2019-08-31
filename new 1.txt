@@ -1,0 +1,6 @@
+//index.html
+<html>
+<body>
+   <h1>Welcome to git session</h1>
+   </body>
+   </html>
